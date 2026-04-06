@@ -1,2 +1,9 @@
 */venv
-plan.md
+runs/
+.github/
+docs/
+output/
+flowmon-analysis/
+*.log
+__pycache__/
+*.sh
